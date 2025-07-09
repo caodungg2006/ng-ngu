@@ -47,7 +47,7 @@ function generateMessage(noCount) {
     "Ngủ sớm dùmm thí ghéc",
     "Không ngủ sớm là hong chơi cùng nữa",
     "Thui nay ngủ sớm nhaaa",
-    "Nay phải ngủ 1h hoặc chấp nhận bên trên ",
+    "Nay phải ngủ 1h hoặc chấp nhận bên trên",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
