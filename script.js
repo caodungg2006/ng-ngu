@@ -43,7 +43,7 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "Không Bao Giờ",
-    "Ngủ Ngủ Ngủ",
+    "Ko Ngủ Ko Ngủ Ko Ngủ",
     "Ngủ sớm dùmm thí ghéc",
     "Không ngủ sớm là hong chơi cùng nữa",
     "Thui nay ngủ sớm nhaaa",
